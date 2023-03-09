@@ -20,5 +20,9 @@
             android:id="@+id/nav_share"
             android:icon="@drawable/share_24"
             android:title="Share App" />
+        <item
+            android:id="@+id/nav_bird"
+            android:icon="@drawable/share_24"
+            android:title="Share Bird" />
     </group>
 </menu>

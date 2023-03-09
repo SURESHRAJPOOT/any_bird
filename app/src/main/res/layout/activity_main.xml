@@ -11,8 +11,8 @@
     <Button
         android:id="@+id/galleryBtn"
         android:text="Gallery"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_width="100sp"
+        android:layout_height="100sp"/>
     <!-- android:numColumns=2 is the number of columns for Grid View
         android:horizontalSpacing is the space between horizontal grid items -->
     <GridView
