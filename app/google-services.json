@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "22286085654",
+    "firebase_url": "https://birds-of-india-76d1c-default-rtdb.firebaseio.com",
+    "project_id": "birds-of-india-76d1c",
+    "storage_bucket": "birds-of-india-76d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22286085654:android:7b591dad47364471ac0f37",
+        "android_client_info": {
+          "package_name": "com.example.birds_of_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6QKOLll0TsAAUozrNj31xGfDdKwp9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22286085654:android:3856f939beb4c65aac0f37",
+        "android_client_info": {
+          "package_name": "com.example.indian_birds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6QKOLll0TsAAUozrNj31xGfDdKwp9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22286085654:android:e3438649c67dd1f6ac0f37",
+        "android_client_info": {
+          "package_name": "com.example.indianbirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6QKOLll0TsAAUozrNj31xGfDdKwp9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22286085654:android:21714e84e9b02bcdac0f37",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6QKOLll0TsAAUozrNj31xGfDdKwp9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22286085654:android:a1d53c1c80c8388bac0f37",
+        "android_client_info": {
+          "package_name": "com.example.nav_bird11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6QKOLll0TsAAUozrNj31xGfDdKwp9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22286085654-3pah9f6qnj7l3jd6b5mb4daiec60p5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
